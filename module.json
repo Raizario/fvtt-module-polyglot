@@ -71,7 +71,7 @@
 	],
 	"url": "https://github.com/Raizario/fvtt-module-polyglot-runes",
 	"manifest": "https://github.com/Raizario/fvtt-module-polyglot-runes/raw/master/module.json",
-	"download": "https://github.com/Raizario/fvtt-module-polyglot-runes/archive/refs/heads/master.zip",
+	"download": "github.com/Raizario/fvtt-module-polyglot-runes/zipball/master/",
 	"bugs": "https://github.com/mclemente/fvtt-module-polyglot/issues",
 	"compatibility": {
 		"minimum": "11",
