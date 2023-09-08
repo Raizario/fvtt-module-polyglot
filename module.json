@@ -5,9 +5,8 @@
 	"version": "2",
 	"authors": [
 		{
-			"name": "Matheus Clemente",
-			"discord": "mclemente#5524",
-			"ko-fi": "mclemente"
+			"name": "Raizario",
+			"discord": "raizario#9954",
 		}
 	],
 	"esmodules": ["polyglot.js"],
